@@ -1,0 +1,1 @@
+print ([even_elements for even_elements in list(map(int,input().split())) if even_elements%2==0 ])
