@@ -26,3 +26,8 @@
 
 ## [TASK 8 :](https://github.com/RitikGupta19/python-scripts/tree/master/TASK8) 
 * Exeption Handling in Python
+
+## [TASK 9 :](https://github.com/RitikGupta19/python-scripts/tree/master/TASK9)
+* List Comprehension
+* Dictionary Comprehension
+* Set comprehension
