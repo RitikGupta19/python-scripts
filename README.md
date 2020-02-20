@@ -31,3 +31,7 @@
 * List Comprehension
 * Dictionary Comprehension
 * Set comprehension
+
+## [TASK 10 :](https://github.com/RitikGupta19/python-scripts/tree/master/TASK10)
+* Opening File I/O
+* Reading/Writing into Files
