@@ -1,0 +1,4 @@
+Hey gys!!
+This is pyhton sig task.
+I am doing task 10.
+Python is intresting.
