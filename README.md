@@ -35,3 +35,7 @@
 ## [TASK 10 :](https://github.com/RitikGupta19/python-scripts/tree/master/TASK10)
 * Opening File I/O
 * Reading/Writing into Files
+
+## [TASK 11 :](https://github.com/RitikGupta19/python-scripts/tree/master/TASK11)
+* Classes and Objects
+* OOPs Concept
